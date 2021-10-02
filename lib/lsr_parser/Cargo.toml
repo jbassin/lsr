@@ -1,0 +1,7 @@
+[package]
+name = "lsr_parser"
+version = "0.1.0"
+authors = ["Joshua Bassin <josh.r.bassin@gmail.com>"]
+edition = "2018"
+
+[dependencies]
