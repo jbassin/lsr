@@ -1,7 +1,6 @@
-[package]
-name = "lsr"
-version = "0.1.0"
-authors = ["Joshua Bassin <josh.r.bassin@gmail.com>"]
-edition = "2018"
+[workspace]
 
-[dependencies]
+members = [
+  "lsr-bin",
+  "lsr-parse",
+]
